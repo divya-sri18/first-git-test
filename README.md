@@ -1,2 +1,2 @@
-This is my first GitHub repository.
+This is my first GitHub repository. 
 Learning Git step by step.
